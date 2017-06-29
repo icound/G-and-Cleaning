@@ -1,6 +1,6 @@
 G-and-Cleaning 
 ============== 
-The folowing steps were performed in the scrip:
+The folowing steps were performed in the script:
 - loading training and test data separatly
 - loading the activitities names and subjects of the performed measurments
 - merging training and test data sets usinf rbind()
